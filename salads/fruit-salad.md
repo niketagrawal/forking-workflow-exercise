@@ -1,7 +1,7 @@
 # Fruit salad recipe
 
 
-## Ingredients
+
 
 - 1 cup strawberries, hulled and halved
 - 1 cup blueberries
